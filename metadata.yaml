@@ -1,0 +1,42 @@
+_repo: Gerald-Fitzgerald-the-Chevalier--A-Novel_32560
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McCormick, A. D. (Arthur David)
+    aliases:
+    - McCormick, Arthur David
+    - M'Cormick, A. D. (Arthur David)
+    - McCormick, A.D.
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '40073'
+    url: http://www.gutenberg.org/2009/agents/40073
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lever, Charles James
+    aliases:
+    - O'Dowd, Cornelius
+    - Lorrequer, Harry
+    birthdate: 1806
+    deathdate: 1872
+    gutenberg_agent_id: '1744'
+    url: http://www.gutenberg.org/2009/agents/1744
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
+description: ''
+gutenberg_issued: '2010-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+title: 'Gerald Fitzgerald, the Chevalier: A Novel'
+url: http://www.gutenberg.org/ebooks/32560
